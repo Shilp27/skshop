@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skshop/static/css/main.a65afb08.css",
+    "main.js": "/skshop/static/js/main.0c041830.js",
+    "index.html": "/skshop/index.html",
+    "main.a65afb08.css.map": "/skshop/static/css/main.a65afb08.css.map",
+    "main.0c041830.js.map": "/skshop/static/js/main.0c041830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65afb08.css",
+    "static/js/main.0c041830.js"
+  ]
+}
